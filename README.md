@@ -116,7 +116,7 @@ LIMIT 10;
 
 ## 📜 License
 
-This project is released under the .
+This project is released under the [MIT License](licence.txt).
 
 ---
 
